@@ -5,7 +5,7 @@ const app = express()
 
 app.get('/',(req,res)=>{
 
-    res.send({mess:"prodcut is running with help of nodemon dockers help"})
+    res.send({mess:"prodcut is running with help of nodemon dockers helps"})
 
 })
 
